@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/tsyra001/dev/my/adswitcher/client/Android/adswitcher/app/build/intermediates/pre-dexed/debug/classes-92cb1308bd2ef98689dfc9e2eb8e816162d0b37b.jar"
+        jar="/Users/tsyra001/dev/my/adswitcher/client/Android/adswitcher/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b6a82434c1eca686607867cd906bcc80ed987837"/>
+    <item
+        dex="/Users/tsyra001/dev/my/adswitcher/client/Android/adswitcher/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fe930dc68beb1e566675ce71b270d4091c6c249b.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/Users/tsyra001/dev/my/AndroidAppSample/app/build/intermediates/pre-dexed/debug/revmob-6.9.6-faa104948b39984354a7c3be6e15be18c48b72f9.jar"
+        jar="/Users/tsyra001/dev/my/AndroidAppSample/app/libs/revmob-6.9.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2815362e751f5d4e22ac16ba4edfe7748b9d0c72"/>
+    <item
+        dex="/Users/tsyra001/dev/my/adswitcher/client/Android/adswitcher/app/build/intermediates/pre-dexed/debug/revmob-6.9.6-ac9722b4e527db49f766ec6c353321c2a6af9c5b.jar"
+        jar="/Users/tsyra001/dev/my/adswitcher/client/Android/adswitcher/app/libs/revmob-6.9.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2815362e751f5d4e22ac16ba4edfe7748b9d0c72"/>
+    <item
+        dex="/Users/tsyra001/dev/my/adswitcher/client/Android/adswitcher/app/build/intermediates/pre-dexed/debug/chartboost-b8959a82af27180b16ba3b3a3ecd12e4bb16ba68.jar"
+        jar="/Users/tsyra001/dev/my/adswitcher/client/Android/adswitcher/app/libs/chartboost.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="756e5453f2efd2cb3a6d3d91eccce66e7eae48d2"/>
+    <item
+        dex="/Users/tsyra001/dev/my/adswitcher/client/Android/adswitcher/app/build/intermediates/pre-dexed/debug/chartboostdata-b596ddbde41f7bba0721d8926ffb1cc503c8bf8a.jar"
+        jar="/Users/tsyra001/dev/my/adswitcher/client/Android/adswitcher/app/libs/chartboostdata.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6256ab44e78943f00c1863461a6852be5ca9d115"/>
+    <item
+        dex="/Users/tsyra001/dev/my/AndroidAppSample/app/build/intermediates/pre-dexed/debug/chartboostdata-fc583b6ed5b5a7cdfc2ab136bf0c404638289c58.jar"
+        jar="/Users/tsyra001/dev/my/AndroidAppSample/app/libs/chartboostdata.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6256ab44e78943f00c1863461a6852be5ca9d115"/>
+    <item
+        dex="/Users/tsyra001/dev/my/AndroidAppSample/app/build/intermediates/pre-dexed/debug/classes-f5c6bf87ce21f89238abfd613183b19794b79429.jar"
+        jar="/Users/tsyra001/dev/my/AndroidAppSample/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b6a82434c1eca686607867cd906bcc80ed987837"/>
+    <item
+        dex="/Users/tsyra001/dev/my/AndroidAppSample/app/build/intermediates/pre-dexed/debug/chartboost-5a62e99963139b06fce07f1488226ea3f5ce93ae.jar"
+        jar="/Users/tsyra001/dev/my/AndroidAppSample/app/libs/chartboost.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="756e5453f2efd2cb3a6d3d91eccce66e7eae48d2"/>
+
+</pre-dex-items>
