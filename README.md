@@ -1,7 +1,7 @@
 AndroidAppSample
 ================
 
-This app present an example of using Adseewtcher API.
+This app present an example of using Adseewtcher API from http://adsweetcher.com.
 
 Main classes here
 
